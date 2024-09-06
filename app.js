@@ -15,7 +15,12 @@ function pesquisar() {
             <a href="#" target="_blank">${dado.titulo}</a>
           </h2>
           <p class="descricao-meta">${dado.descricao}</p>
-          <a href="${dado.link}" target="_blank">Mais informações sobre o tênis nas Olímpiadas</a>
+          <p class="descricao-meta">${dado.historia_olimpica}</p>
+          <p class="descricao-meta">${dado.regras}</p>
+          <p class="descricao-meta">${dado.modalidades}</p>
+          <p class="descricao-meta">${dado.estilos}</p>
+          <p class="descricao-meta">${dado.medalhistas_brasileiros}</p>
+          <a href="${dado.link}" target="_blank"><b>Mais informações sobre o esporte nas Olímpiadas</b></a>
         </div>
       `
     }
