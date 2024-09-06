@@ -1,4 +1,4 @@
-## Descubra o Esporte Olímpico dos seus Sonhos!
+## Descubra o Esporte Olímpico dos seus Sonhos! - Imersão Dev com Google Gemini
 
 **O que essa aplicação faz?**
 
